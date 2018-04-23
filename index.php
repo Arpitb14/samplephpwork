@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing PHP Application : time Pass hai ye sab..Approval Mill Gaya</h1>
+<h1>Developing PHP Application : WELCOME TO PHP PAGE</h1>
 
 <?php
 echo "Version: 11.10";
